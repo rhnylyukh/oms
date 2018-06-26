@@ -400,11 +400,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>deployment</id>
-      <url>http://192.168.56.80:8081/repository/oms1-snap/</url>
+      <url>http://192.168.103.193:8081/repository/oms1-snap/</url>
     </snapshotRepository>
     <repository>
       <id>deployment</id>
-      <url>http://192.168.56.80:8081/repository/oms1-release/</url>
+      <url>http://192.168.103.193:8081/repository/oms1-release/</url>
     </repository>
   </distributionManagement>
 </project>
